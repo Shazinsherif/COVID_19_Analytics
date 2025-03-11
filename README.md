@@ -19,4 +19,6 @@ The dataset used in this project consists of two main tables:
 
 ## Dashboard
 
+- Live Dashboard Link : https://public.tableau.com/app/profile/shazin.pulat/viz/Book1_16812908879830/Dashboard1
+
 ![image](https://github.com/user-attachments/assets/c9860433-c2ec-4320-8025-5c148b5b7fac)
